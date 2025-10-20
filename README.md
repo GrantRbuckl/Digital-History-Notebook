@@ -1,7 +1,6 @@
 # Digital-History-Notebook
 Digital History Notebook: Computer Science Pioneers
 Welcome to your first project for the "History of Technology" class. Your assignment is to create a digital notebook to document key figures and events in the history of computer science. This notebook will be version-controlled, allowing you to track your work and manage your revisions.
-
 Your final submission will be a public GitHub repository with a complete digital notebook that follows all of the steps below.
 
 Assignment 1: Setting Up Your Notebook
@@ -16,6 +15,7 @@ Report Status (These questions need to be answered for part of your grade):
 Answer:git clone {url}
 1.2: What was your first commit message to push this file to GitHub?
 Answer:"configured repo"
+
 Assignment 2: The Founding Visionaries
 Now, let's begin documenting the pioneers of our field. You will create files for two key figures.
 Instructions:
@@ -32,6 +32,7 @@ Report Status:
 Answer:
 2.2: What was your commit message?
 Answer:
+
 Assignment 3: A Timeline of the Internet
 To celebrate the interconnected world of computing, you will create a timeline of key events in the internet's history. You will do this by editing your README.md file directly on GitHub.
 Instructions:
@@ -45,6 +46,7 @@ Use git pull to retrieve the timeline you created from your remote repository.
 Report Status:
 3.1: What command did you use to retrieve the new information from GitHub?
 Answer:
+
 Assignment 4: The Modern Era
 Now, let's add two more influential figures who shaped the modern era of computing.
 Instructions:
@@ -59,6 +61,7 @@ Report Status:
 Answer:
 4.2: What command did you use to publish your changes to the remote repository?
 Answer:
+
 Assignment 5: Peer Review
 Your classmates are now reviewing your work. A peer has left a suggestion for one of your files.
 Instructions:
@@ -74,6 +77,7 @@ Report Status:
 Answer:
 5.2: What command did you use to merge your peer's changes into your local notebook?
 Answer:
+
 Assignment 6: The Web's Inventor
 With the internet's timeline now in your notebook, let's document one of its key figures.
 Instructions:
@@ -88,6 +92,7 @@ Report Status:
 Answer:
 6.2: What command did you use to publish your work?
 Answer:
+
 Assignment 7: Final Edits
 As a final step, you realize your notebook could use a concluding thought. You will add this directly on GitHub.
 Instructions:
