@@ -31,12 +31,14 @@ Use git add . to stage both new files.
 Use git commit -m "Added pioneers Ada and Alan" to save these changes to your local notebook.
 Finally, use git push to publish your work to GitHub.
 Report Status:
-
+[Ada Lovelace](https://github.com/GrantRbuckl/Digital-History-Notebook/blob/main/ada-lovelace.md)
+[Alan Turing](https://github.com/GrantRbuckl/Digital-History-Notebook/blob/main/alan-turing.md)
 2.1: What two file names did you create?
-Answer:
+Answer: ada-lovelace.md
+        alan-turing.md
 
 2.2: What was your commit message?
-Answer:
+Answer: "Added pioneers Ada and Alan"
 
 Assignment 3: A Timeline of the Internet
 To celebrate the interconnected world of computing, you will create a timeline of key events in the internet's history. You will do this by editing your README.md file directly on GitHub.
