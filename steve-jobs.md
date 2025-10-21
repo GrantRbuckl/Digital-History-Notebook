@@ -1,0 +1,1 @@
+Steve Jobs revolutionized modern technology with the 1984 Macintosh computer with its GUI (Graphical User Interface). His competition with figures like Bill Gates kept innovation at an all time high during the technology boom of the late 1900s and early 2000s.
