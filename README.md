@@ -66,12 +66,15 @@ Use git add . to stage the new files and the updated README.md.
 Use git commit -m "Added modern innovators" to save your work.
 Use git push to publish your changes.
 Report Status:
+[Bill Gates](https://github.com/GrantRbuckl/Digital-History-Notebook/blob/main/bill-gates.md)
+[Steve Jobs](https://github.com/GrantRbuckl/Digital-History-Notebook/blob/main/steve-jobs.md)
+
 
 4.1: What command did you use to save your changes to your local notebook?
-Answer:
+Answer: :w (in vim)
 
 4.2: What command did you use to publish your changes to the remote repository?
-Answer:
+Answer: git push
 
 Assignment 5: Peer Review
 Your classmates are now reviewing your work. A peer has left a suggestion for one of your files.
