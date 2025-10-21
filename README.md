@@ -89,10 +89,10 @@ Finally, use git pull to get your peer's feedback.
 Report Status:
 
 5.1: What did git status tell you after you ran git fetch?
-Answer:
+Answer: It said that my branch was behind the origin/main by two commits
 
 5.2: What command did you use to merge your peer's changes into your local notebook?
-Answer:
+Answer: git pull
 
 Assignment 6: The Web's Inventor
 With the internet's timeline now in your notebook, let's document one of its key figures.
